@@ -1,0 +1,16 @@
+body{
+    background-image: url(img/men-playing-video-games_137573-637-min.lnk);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .demo, h3, h2, p, li{
+    color: cornsilk;
+}
+
+span{
+    color: rgb(207, 41, 41);
+    font-size:30px;
+}
+h1 ,h3{
+    color: indianred;
+}
